@@ -350,7 +350,7 @@ function App() {
           </div>
         </section>
 
-        <footer>Built by Pani Chandra · 2026</footer>
+        <footer>Built by Pani Chendra · 2026</footer>
       </main>
     </>
   )
